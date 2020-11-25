@@ -1,5 +1,5 @@
 package udemyclass;
-
+//Exercise 6
 public class EqualSumChecker {
 
     public static void main(String[] args) {
