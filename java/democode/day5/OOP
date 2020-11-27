@@ -1,0 +1,25 @@
+OOP
+- Object-oriented Language
+- based on the concept of objects - data and functions
+- programming paradigm
+
+4 Pillars of OOP
+1) Encapsulation
+    - data hiding
+    - getters/setters
+2) Inheritance
+    - reusability
+    - inherits the attribute and methods from a base class
+3) Polymorphism
+    - "many forms"
+    - method overloading and overriding
+        - overloading -> same method name but different parameters
+        - overriding -> overrides existing implementation of a method from base class
+4) Abstraction
+    - implementation hiding
+
+Class vs Object
+- Class describes the data and functions of an object
+- Object is based on the class
+
+ClassName obj = new ClassName()

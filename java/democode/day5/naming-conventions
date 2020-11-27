@@ -1,0 +1,8 @@
+Naming Conventions
+
+Variables and Methods - camelCase
+e.g
+    int numOfDays = 7;
+    double calculateTax(double income) { ... }
+
+Class Names - PascalCase

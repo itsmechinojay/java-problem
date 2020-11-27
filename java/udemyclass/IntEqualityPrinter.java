@@ -1,5 +1,5 @@
 package udemyclass;
-
+//Exercise 10
 public class IntEqualityPrinter {
 
 

@@ -1,0 +1,9 @@
+Access Modifier
+- private
+    private methods/variable can only be access on the same class
++ public
+    can be access in any class and packages
+# protected
+    can be access in subclass or child class
+~ default
+    can be access in the same package
