@@ -1,5 +1,5 @@
 package udemyclass;
-//Exercise 8
+
 public class AreaCalculator {
 
     public static void main(String[] args) {

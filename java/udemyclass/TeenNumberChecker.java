@@ -1,5 +1,5 @@
 package udemyclass;
-//Exercise 7
+
 public class TeenNumberChecker {
     public static void main(String[] args) {
         boolean test = hasTeen(22, 15, 24);

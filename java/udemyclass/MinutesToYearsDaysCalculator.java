@@ -1,5 +1,5 @@
 package udemyclass;
-//Exercise 9
+
 public class MinutesToYearsDaysCalculator {
 
     public static void main(String[] args){

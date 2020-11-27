@@ -1,5 +1,5 @@
 package udemyclass;
-//Exercise 1
+
 public class SpeedConverter {
 
     public static void main(String[] args) {

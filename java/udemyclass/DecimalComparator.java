@@ -1,5 +1,5 @@
 package udemyclass;
-//Exercise 5
+
 public class DecimalComparator {
     public static void main(String[] args) {
         boolean test = areEqualByThreeDecimalPlaces(-3.1756, -3.176);
